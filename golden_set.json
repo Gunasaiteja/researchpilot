@@ -1,0 +1,4 @@
+[
+  {"question": "Replace with a question about your uploaded document", "expected_keywords": ["keyword1", "keyword2"]},
+  {"question": "Replace with another question", "expected_keywords": ["keyword3"]}
+]
